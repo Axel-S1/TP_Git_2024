@@ -1,1 +1,5 @@
-#!/bin/bash\necho "Hello World"\nexit
+#!/bin/bash
+
+echo "Hello World"
+
+exit
